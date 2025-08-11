@@ -2,7 +2,11 @@
 using namespace std;
 
 int main(){
+<<<<<<< HEAD
     cout<<"Hello there!\n";
+=======
+    cout<<"This is butterfly code\n";
+>>>>>>> main
     int r=4;
     for(int i=0;i<r;i++){
         for(int j=0;j<=i;j++){
